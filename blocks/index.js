@@ -1,0 +1,1 @@
+import "../blocks/wsuwp-auto-toc/editor/block";

@@ -1,0 +1,10 @@
+# Logs
+logs
+*.log
+
+
+# Diagnostic reports (https://nodejs.org/api/report.html)
+*.json
+
+# Dependency directories
+node_modules/
