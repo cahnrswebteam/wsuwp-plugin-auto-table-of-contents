@@ -33,7 +33,7 @@ class Register_Block_WSUWP_Auto_TOC  {
 					array(
 						'api_version'     => 2,
 						'render_callback' => array( $block_class, 'render_block' ),
-						'editor_script'   => 'cahnrs-gutenberg-plugin',
+						'editor_script'   => 'wsuwp-plugin-auto-table-of-contents',
 					)
 				);
 			}
