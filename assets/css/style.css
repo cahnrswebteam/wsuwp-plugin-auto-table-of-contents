@@ -115,3 +115,10 @@
         padding-bottom:0; 
     }
 }
+
+@media print {
+    .wsuwp-auto-toc-back-to-top,
+    .wsuwp-auto-toc {
+        display: none;
+    }
+}

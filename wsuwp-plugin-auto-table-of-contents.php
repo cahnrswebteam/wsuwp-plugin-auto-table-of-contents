@@ -5,7 +5,7 @@
  * Plugin Name:       WSUWP Auto Table of Contents
  * Plugin URI:        https://cahnrs.wsu.edu/
  * Description:       Creates a table of contents depending on the headings used in the content. 
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            CAHNRS Communications
  * Author URI:        https://cahnrs.wsu.edu/
  * Text Domain:       wsuwp-plugin-auto-table-of-contents
@@ -30,7 +30,7 @@ function wsuwp_plugin_gutenberg_auto_toc_plugin_check(){
 require_once( WP_PLUGIN_DIR . '/wsuwp-plugin-gutenberg/includes/plugin.php');
 
 //Define the version of this CAHNRS Gutenberg plugin
-define( 'WSUWPAUTOTABLEOFCONTENTSVERSION', '1.0.0' );
+define( 'WSUWPAUTOTABLEOFCONTENTSVERSION', '1.0.1' );
 
 // Gets WSUWP Auto Table of Contents plugin URL.
 function _get_wsuwp_auto_table_of_contents_plugin_url() {
